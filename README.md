@@ -2,6 +2,8 @@
 
 ## Content List
 
+### - Beginner
+
 - [x] #0 - rust environment setup | macOS
 - [x] #0.l - rust environment setup | linux
 - [ ] #0.w - rust environment setup | windows
@@ -18,14 +20,16 @@
 - [ ] #9 - print and println macros
 - [ ] #10 - rust comments
 - [ ] #11 - #[allow] attribute
-- [ ] #12 - data types | integers ???
+- [ ] #12 - data types | integers
 - [ ] #13 - number systems | binary
 - [ ] #14 - number systems | decimal
 - [ ] #15 - number systems | hexadecimal
 - [ ] #16 - arithmetic operators
 - [ ] #17 - overflow
-- [ ] #18 - data types | bools ???
-- [ ] #19 - data types | floats
+- [x] #18 - data types | boolean
+- [x] #19 - comparison operators
+- [ ] #20 - data types | floats
+<!-- 
 - [ ] #20 - data types | chars | ascii table
 - [ ] as | type casting operator
 - [ ] #21 - arrays
@@ -39,5 +43,10 @@
 - [ ] #30 - control flow | if/else
 - [ ] #31 - control flow | match
 - [ ] infinite loop
-- [] while loop
-- for loop
+- [ ] while loop
+- [ ] for loop
+- [ ] functions
+- [ ] references ?? - with functions
+- [ ] constants | const, static
+
+-->
