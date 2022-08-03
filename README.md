@@ -28,12 +28,18 @@
 - [ ] #17 - overflow
 - [x] #18 - data types | boolean
 - [x] #19 - comparison operators
-- [ ] #20 - data types | floats
-<!-- 
-- [ ] #20 - data types | chars | ascii table
-- [ ] as | type casting operator
+- [x] #20 - data types | floats
+- [x] #21 - data types | chars 
+<!--
+- [ ] type casting operator | as
+//ascii table
+// charla ascii table göster tür dönüşümleri
+https://doc.rust-lang.org/rust-by-example/types/cast.html -- güzel bir örnek var.
+
+
 - [ ] #21 - arrays
-- [ ] #22 - string slices & Strings
+- [ ] #22 - string slices & Strings 
+// https://www.educative.io/answers/what-is-stringchars-in-rust
 - [ ] #23 - tuples
 - [ ] #24 - scope
 - [ ] #25 - shadowing
