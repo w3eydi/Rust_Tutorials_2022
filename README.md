@@ -29,15 +29,11 @@
 - [x] #18 - data types | boolean
 - [x] #19 - comparison operators
 - [x] #20 - data types | floats
-- [x] #21 - data types | chars 
-<!--
-- [ ] type casting operator | as
-//ascii table
-// charla ascii table göster tür dönüşümleri
-https://doc.rust-lang.org/rust-by-example/types/cast.html -- güzel bir örnek var.
-
-
+- [x] #21 - data types | chars -> [chars](chars)
+- [x] #22 - type casting operator | as -> [as operator](as_operator)
 - [ ] #21 - arrays
+
+<!--
 - [ ] #22 - string slices & Strings 
 // https://www.educative.io/answers/what-is-stringchars-in-rust
 - [ ] #23 - tuples
