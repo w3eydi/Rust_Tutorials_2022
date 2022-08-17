@@ -14,7 +14,7 @@
 - [ ] #3 - basic cargo commands | Hello, cargo!
 - [x] #4 - vscode and pycharm plugins
 - [ ] #5 - rustup doc
-- [ ] #6 - rustup update
+- [x] #6 - rustup update
 - [ ] #7 - variables
 - [ ] #8 - variable naming conventions
 - [ ] #9 - print and println macros
@@ -32,7 +32,7 @@
 - [x] #21 - data types | chars -> [chars](chars)
 - [x] #22 - type casting operator | as -> [as operator](as_operator)
 - [x] #23 - compound data types | arrays -> [arrays](arrays)
-- [ ] #24 - compound data types | tuples
+- [x] #24 - compound data types | tuples -> [tuples](tuples)
 - [ ] #25 - str & String
 - [ ] #26 - string slices
 <!--
