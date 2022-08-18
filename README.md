@@ -33,33 +33,34 @@
 - [x] #22 - type casting operator | as -> [as operator](as_operator)
 - [x] #23 - compound data types | arrays -> [arrays](arrays)
 - [x] #24 - compound data types | tuples -> [tuples](tuples)
-- [ ] #25 - str & String
+- [x] #25 - &str(string literal) and String -> [str_and_string](str_and_string)
 - [ ] #26 - string slices
+- [ ] #27 - raw string literals
 <!--
 - [ ] #26 - string slices & Strings string literal
 // https://www.educative.io/answers/what-is-stringchars-in-rust -->
-- [ ] #27 - scope
-- [ ] #28 - shadowing
-- [ ] #29 - logical operators
-- [ ] #30 - bitwise operators
-- [ ] #31 - differences between logical and bitwise operators
-- [ ] #32 - control flow | if/else
-- [ ] #33 - control flow | match
-- [ ] #34 - infinite loop
-- [ ] #35 - break
-- [ ] #36 - continue
-- [ ] #37 - while loop
-- [ ] #38 - for loop
-- [ ] #39 - functions
-- [ ] #40 - functions shadowing
+- [ ] #28 - scope
+- [ ] #29 - shadowing
+- [ ] #30 - logical operators
+- [ ] #31 - bitwise operators
+- [ ] #32 - differences between logical and bitwise operators
+- [ ] #33 - control flow | if/else
+- [ ] #34 - control flow | match
+- [ ] #35 - infinite loop
+- [ ] #36 - break
+- [ ] #37 - continue
+- [ ] #38 - while loop
+- [ ] #39 - for loop
+- [ ] #40 - functions
+- [ ] #41 - functions shadowing
 <!-- linked learn 6.7-->
-- [ ] #41 - basic references ?? - with functions borrowing
+- [ ] #42 - basic references ?? - with functions borrowing
 
 ### - Intermediate
 
-- [ ] #42 - closures
-- [ ] #43 - libraries
-- [ ] #44 - input
+- [ ] #43 - closures
+- [ ] #44 - libraries
+- [ ] #45 - input
 <!--
 - [ ] ownership
      reference
