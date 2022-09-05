@@ -34,11 +34,8 @@
 - [x] #23 - compound data types | arrays -> [arrays](arrays)
 - [x] #24 - compound data types | tuples -> [tuples](tuples)
 - [x] #25 - &str(string literal) and String -> [str_and_string](str_and_string)
-- [ ] #26 - string slices
+- [x] #26 - string slices -> [string_slices](string_slices)
 - [ ] #27 - raw string literals
-<!--
-- [ ] #26 - string slices & Strings string literal
-// https://www.educative.io/answers/what-is-stringchars-in-rust -->
 - [ ] #28 - scope
 - [ ] #29 - shadowing
 - [ ] #30 - logical operators
@@ -51,20 +48,24 @@
 - [ ] #37 - continue
 - [ ] #38 - while loop
 - [ ] #39 - for loop
+<!--
+- [ ] for loop Strings string literal
+// https://www.educative.io/answers/what-is-stringchars-in-rust -->
 - [ ] #40 - functions
 - [ ] #41 - functions shadowing
 <!-- linked learn 6.7-->
 - [ ] #42 - basic references ?? - with functions borrowing
-
+<!-- reference
+     dereference // belki 42 ye aktarılır ownership başlanabilir -->
 ### - Intermediate
 
 - [ ] #43 - closures
 - [ ] #44 - libraries
 - [ ] #45 - input
 <!--
+https://www.tutorialspoint.com/rust/rust_file_input_output.htm
 - [ ] ownership
-     reference
-     dereference
+     
      borrowing
 
 - [ ] struct 
@@ -75,10 +76,12 @@
         
         tuple structs
         generic 
+        generic type safe vektör örneği
+        https://www.tutorialspoint.com/rust/rust_generic_types.htm
         generic method <T, U> ve <u8, u8>
         generic partialOrd
         trait implementasyonu
-        trait - Debug formatting
+        trait - Debug formatting & Display Traits
         trait - Default value
         trait - partialEq
         trait derivable
@@ -92,14 +95,24 @@
         lifetimes
        - [ ] constants | const, static
         enums
+        enum function
+        options -- https://www.linkedin.com/learning/rust-essential-training/3145782?autoSkip=true&autoplay=true&resume=false   matching Option<T>
         if let
         while let
         results
-        panic!
         kind error handling
+        panic!
+        unwrap()
+        expect()
         new data types collections
                 -vectors 
                 -hashmaps
+                -btree
+        ITERATOR
+                Fn .iter
+                FnMut .iter_mut()
+                FnOnce .into_iter()
+        COLLECT
 
 
 
@@ -107,10 +120,13 @@
         reference types
         smart pointers
         box
+        CustomBoxßßhttps://www.tutorialspoint.com/rust/rust_smart_pointers.htm
         rc
-        mutex(sync, send) arc
-        rw
+        arc
+        mutex
+        rwLock
 - [ ] async
+        channel (sync, send)
 - [ ] tokio
         macros
 - [ ] 
