@@ -33,9 +33,9 @@
 - [x] #22 - type casting operator | as -> [as operator](as_operator)
 - [x] #23 - compound data types | arrays -> [arrays](arrays)
 - [x] #24 - compound data types | tuples -> [tuples](tuples)
-- [x] #25 - &str(string literal) and String -> [str_and_string](str_and_string)
-- [x] #26 - string slices -> [string_slices](string_slices)
-- [ ] #27 - raw string literals
+- [x] #25 - &str(string literal) and String -> [str and string](str_and_string)
+- [x] #26 - string slices -> [string slices](string_slices)
+- [x] #27 - raw string literals -> [raw string literals](raw_string_literal)
 - [ ] #28 - scope
 - [ ] #29 - shadowing
 - [ ] #30 - logical operators
