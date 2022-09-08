@@ -36,7 +36,7 @@
 - [x] #25 - &str(string literal) and String -> [str and string](str_and_string)
 - [x] #26 - string slices -> [string slices](string_slices)
 - [x] #27 - raw string literals -> [raw string literals](raw_string_literal)
-- [ ] #28 - scope
+- [x] #28 - scope -> [scope](scope)
 - [ ] #29 - shadowing
 - [ ] #30 - logical operators
 - [ ] #31 - bitwise operators
