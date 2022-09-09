@@ -37,7 +37,7 @@
 - [x] #26 - string slices -> [string slices](string_slices)
 - [x] #27 - raw string literals -> [raw string literals](raw_string_literal)
 - [x] #28 - scope -> [scope](scope)
-- [ ] #29 - shadowing
+- [x] #29 - shadowing -> [shadowing](shadowing)
 - [ ] #30 - logical operators
 - [ ] #31 - bitwise operators
 - [ ] #32 - differences between logical and bitwise operators
