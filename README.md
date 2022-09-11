@@ -38,7 +38,7 @@
 - [x] #27 - raw string literals -> [raw string literals](raw_string_literal)
 - [x] #28 - scope -> [scope](scope)
 - [x] #29 - shadowing -> [shadowing](shadowing)
-- [ ] #30 - logical operators
+- [x] #30 - logical operators -> [logical](logical)
 - [ ] #31 - bitwise operators
 - [ ] #32 - differences between logical and bitwise operators
 - [ ] #33 - control flow | if/else
