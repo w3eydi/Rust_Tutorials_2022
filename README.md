@@ -39,7 +39,7 @@
 - [x] #28 - scope -> [scope](scope)
 - [x] #29 - shadowing -> [shadowing](shadowing)
 - [x] #30 - logical operators -> [logical](logical)
-- [ ] #31 - bitwise operators
+- [x] #31 - bitwise operators -> [bitwise](bitwise)
 - [ ] #32 - differences between logical and bitwise operators
 - [ ] #33 - control flow | if/else
 - [ ] #34 - control flow | match
