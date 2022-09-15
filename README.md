@@ -40,7 +40,7 @@
 - [x] #29 - shadowing -> [shadowing](shadowing)
 - [x] #30 - logical operators -> [logical](logical)
 - [x] #31 - bitwise operators -> [bitwise](bitwise)
-- [ ] #32 - differences between logical and bitwise operators
+- [x] #32 - compound assignment operators -> [compound assignment](compound_assignment)
 - [ ] #33 - control flow | if/else
 - [ ] #34 - control flow | match
 - [ ] #35 - infinite loop
