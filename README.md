@@ -41,7 +41,7 @@
 - [x] #30 - logical operators -> [logical](logical)
 - [x] #31 - bitwise operators -> [bitwise](bitwise)
 - [x] #32 - compound assignment operators -> [compound assignment](compound_assignment)
-- [ ] #33 - control flow | if/else
+- [x] #33 - control flow | if/else -> [if/else](if_else)
 - [ ] #34 - control flow | match
 - [ ] #35 - infinite loop
 - [ ] #36 - break
