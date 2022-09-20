@@ -42,7 +42,7 @@
 - [x] #31 - bitwise operators -> [bitwise](bitwise)
 - [x] #32 - compound assignment operators -> [compound assignment](compound_assignment)
 - [x] #33 - control flow | if/else -> [if/else](if_else)
-- [ ] #34 - control flow | match
+- [x] #34 - control flow | match -> [match](match_example)
 - [ ] #35 - infinite loop
 - [ ] #36 - break
 - [ ] #37 - continue
