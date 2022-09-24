@@ -11,7 +11,7 @@
 - [x] #1.l - rust compiler introduction on linux | Hello, rust!
 - [x] #1.w - rust compiler introduction on windows | Hello, rust!
 - [ ] #2 - rust compiler detailed explanation | Hello, compiler!
-- [ ] #3 - basic cargo commands | Hello, cargo!
+- [x] #3 - basic cargo commands | Hello, cargo!
 - [x] #4 - vscode and pycharm plugins
 - [ ] #5 - rustup doc
 - [x] #6 - rustup update
