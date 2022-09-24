@@ -13,7 +13,7 @@
 - [ ] #2 - rust compiler detailed explanation | Hello, compiler!
 - [x] #3 - basic cargo commands | Hello, cargo!
 - [x] #4 - vscode and pycharm plugins
-- [ ] #5 - rustup doc
+- [x] #5 - rustup doc
 - [x] #6 - rustup update
 - [ ] #7 - variables
 - [ ] #8 - variable naming conventions
