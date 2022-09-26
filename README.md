@@ -21,9 +21,9 @@
 - [ ] #10 - rust comments
 - [ ] #11 - #[allow] attribute
 - [ ] #12 - data types | integers
-- [ ] #13 - number systems | binary
-- [ ] #14 - number systems | decimal
-- [ ] #15 - number systems | hexadecimal
+- [x] #13 - number systems | binary -> [binary](binary)
+- [x] #14 - number systems | hexadecimal -> [hexadecimal](hexadecimal)
+- [x] #15 - number systems | exponent notation -> [exponent](exponent)
 - [ ] #16 - arithmetic operators
 - [ ] #17 - overflow
 - [x] #18 - data types | boolean
