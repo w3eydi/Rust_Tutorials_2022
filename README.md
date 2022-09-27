@@ -13,12 +13,12 @@
 - [ ] #2 - rust compiler detailed explanation | Hello, compiler!
 - [x] #3 - basic cargo commands | Hello, cargo!
 - [x] #4 - vscode and pycharm plugins
-- [x] #5 - rustup doc
+- [ ] #5 - rustup doc
 - [x] #6 - rustup update
 - [ ] #7 - variables
 - [ ] #8 - variable naming conventions
 - [ ] #9 - print and println macros
-- [ ] #10 - rust comments
+- [x] #10 - rust comments -> [comments](comments)
 - [ ] #11 - #[allow] attribute
 - [ ] #12 - data types | integers
 - [x] #13 - number systems | binary -> [binary](binary)
@@ -49,6 +49,7 @@
 - [ ] #38 - while loop
 - [ ] #39 - for loop
 <!--
+- [ ] let ile loop, match değişken oluşturma
 - [ ] for loop Strings string literal
 // https://www.educative.io/answers/what-is-stringchars-in-rust -->
 - [ ] #40 - functions
@@ -67,8 +68,10 @@ https://www.tutorialspoint.com/rust/rust_file_input_output.htm
 - [ ] ownership
      
      borrowing
+-->
+- [ ] #50 - struct 
 
-- [ ] struct 
+<!--
         struct update :: 10.2 linked
         struct - pub ::hadi yeni bir yöntemle struct tanımlayalım
         methods impl - 10.4 associated function new Self keywordle de tanımla
