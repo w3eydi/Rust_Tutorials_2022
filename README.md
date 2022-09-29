@@ -19,7 +19,7 @@
 - [x] #8 - variable naming conventions
 - [ ] #9 - print and println macros
 - [x] #10 - rust comments -> [comments](comments)
-- [ ] #11 - #[allow] attribute
+- [x] #11 - #[allow] attribute -> [allow](allow)
 - [ ] #12 - data types | integers
 - [x] #13 - number systems | binary -> [binary](binary)
 - [x] #14 - number systems | hexadecimal -> [hexadecimal](hexadecimal)
