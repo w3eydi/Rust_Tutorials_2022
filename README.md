@@ -16,7 +16,7 @@
 - [ ] #5 - rustup doc
 - [x] #6 - rustup update
 - [ ] #7 - variables
-- [ ] #8 - variable naming conventions
+- [x] #8 - variable naming conventions
 - [ ] #9 - print and println macros
 - [x] #10 - rust comments -> [comments](comments)
 - [ ] #11 - #[allow] attribute
@@ -24,7 +24,7 @@
 - [x] #13 - number systems | binary -> [binary](binary)
 - [x] #14 - number systems | hexadecimal -> [hexadecimal](hexadecimal)
 - [x] #15 - number systems | exponent notation -> [exponent](exponent)
-- [ ] #16 - arithmetic operators
+- [x] #16 - arithmetic operators -> [arithmetic](arithmetic)
 - [ ] #17 - overflow
 - [x] #18 - data types | boolean
 - [x] #19 - comparison operators
