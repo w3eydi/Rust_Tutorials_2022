@@ -15,7 +15,7 @@
 - [x] #4 - vscode and pycharm plugins
 - [ ] #5 - rustup doc
 - [x] #6 - rustup update
-- [ ] #7 - variables
+- [x] #7 - variables -> [variables](variables)
 - [x] #8 - variable naming conventions
 - [ ] #9 - print and println macros
 - [x] #10 - rust comments -> [comments](comments)
