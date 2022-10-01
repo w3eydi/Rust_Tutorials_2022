@@ -54,29 +54,30 @@
 // https://www.educative.io/answers/what-is-stringchars-in-rust -->
 - [ ] #40 - functions
 - [ ] #41 - functions shadowing
+
+- [ ] reference
+- [ ] dereference 
+### - Intermediate
 <!-- linked learn 6.7-->
 - [ ] #42 - basic references ?? - with functions borrowing
-<!-- reference
-     dereference // belki 42 ye aktarılır ownership başlanabilir -->
-### - Intermediate
-
+<!-- // belki 42 ye aktarılır ownership başlanabilir -->
+- [ ] ownership
+<!--
+https://www.tutorialspoint.com/rust/rust_file_input_output.htm
+-->     
+- [ ] borrowing
 - [ ] #43 - closures
 - [ ] #44 - libraries
 - [ ] #45 - input
-<!--
-https://www.tutorialspoint.com/rust/rust_file_input_output.htm
-- [ ] ownership
-     
-     borrowing
--->
+
 - [ ] #50 - struct 
 
-<!--
+
         struct update :: 10.2 linked
         struct - pub ::hadi yeni bir yöntemle struct tanımlayalım
         methods impl - 10.4 associated function new Self keywordle de tanımla
         impl - yazdir() get_name()
-        
+
         tuple structs
         generic 
         generic type safe vektör örneği
@@ -90,7 +91,7 @@ https://www.tutorialspoint.com/rust/rust_file_input_output.htm
         trait derivable
         trait - static
         trait - &dyn ?? dynamic dispact
-     aynı video olabilir -   trait - dyn shortway
+     <!--aynı video olabilir -   trait - dyn shortway
             aynı -  trait - dyn impl keyword shortway
         
         MODULES
@@ -100,6 +101,8 @@ https://www.tutorialspoint.com/rust/rust_file_input_output.htm
         enums
         enum function
         options -- https://www.linkedin.com/learning/rust-essential-training/3145782?autoSkip=true&autoplay=true&resume=false   matching Option<T>
+        -->
+        
         if let
         while let
         results
@@ -132,6 +135,7 @@ https://www.tutorialspoint.com/rust/rust_file_input_output.htm
         channel (sync, send)
 - [ ] tokio
         macros
+<!--
 - [ ] 
 - [ ]
 - [ ]
