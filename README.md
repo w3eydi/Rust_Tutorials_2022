@@ -44,7 +44,7 @@
 - [x] #33 - control flow | if/else -> [if/else](if_else)
 - [x] #34 - control flow | match -> [match](match_example)
 - [x] #35 - infinite loop -> [infinite loop](infinite_loop)
-- [ ] #36 - break
+- [x] #36 - break --> [break keyword](break_keyword/src/main.rs)
 - [ ] #37 - continue
 - [ ] #38 - while loop
 - [ ] #39 - for loop
