@@ -45,7 +45,7 @@
 - [x] #34 - control flow | match -> [match](match_example)
 - [x] #35 - infinite loop -> [infinite loop](infinite_loop)
 - [x] #36 - break --> [break keyword](break_keyword/src/main.rs)
-- [ ] #37 - continue
+- [x] #37 - continue --> [continue keyword](continue_keyword/src/main.rs)
 - [ ] #38 - while loop
 - [ ] #39 - for loop
 <!--
