@@ -46,7 +46,7 @@
 - [x] #35 - infinite loop -> [infinite loop](infinite_loop)
 - [x] #36 - break --> [break keyword](break_keyword/src/main.rs)
 - [x] #37 - continue --> [continue keyword](continue_keyword/src/main.rs)
-- [ ] #38 - while loop
+- [x] #38 - while loop --> [while loop](while_loop/src/main.rs)
 - [ ] #39 - for loop
 <!--
 - [ ] let ile loop, match değişken oluşturma
