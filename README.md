@@ -71,101 +71,64 @@ https://www.tutorialspoint.com/rust/rust_file_input_output.htm
 - [ ] #45 - input
 
 - [ ] #50 - struct 
-
-
-        struct update :: 10.2 linked
-        struct - pub ::hadi yeni bir yöntemle struct tanımlayalım
-        methods impl - 10.4 associated function new Self keywordle de tanımla
-        impl - yazdir() get_name()
-
-        tuple structs
-        generic 
-        generic type safe vektör örneği
-        https://www.tutorialspoint.com/rust/rust_generic_types.htm
-        generic method <T, U> ve <u8, u8>
-        generic partialOrd
-        trait implementasyonu
-        trait - Debug formatting & Display Traits
-        trait - Default value
-        trait - partialEq
-        trait derivable
-        trait - static
-        trait - &dyn ?? dynamic dispact
+- [ ] # ?? - struct update :: 10.2 linked
+- [ ] #?? - struct - pub ::hadi yeni bir yöntemle struct tanımlayalım
+- [ ] #?? - methods impl - 10.4 associated function new Self keywordle de tanımla      
+- [ ] #?? impl - yazdir() get_name()
+- [ ] #?? - tuple structs
+- [ ] #?? - generic 
+- [ ] #?? - generic type safe vektör örneği
+        <!-- https://www.tutorialspoint.com/rust/rust_generic_types.htm -->
+- [ ] #?? - generic method <T, U> ve <u8, u8>
+- [ ] #?? - generic partialOrd
+- [ ] #?? - trait implementasyonu
+- [ ] #?? - trait - Debug formatting & Display Traits
+- [ ] #?? - trait - Default value
+- [ ] #?? - trait - partialEq
+- [ ] #?? - trait derivable
+- [ ] #?? - trait - static
+- [ ] #?? - trait - &dyn ?? dynamic dispact
      <!--aynı video olabilir -   trait - dyn shortway
-            aynı -  trait - dyn impl keyword shortway
+            aynı -  trait - dyn impl keyword shortway -->
         
-        MODULES
+- [ ] #?? - MODULES
         
-        lifetimes
-       - [ ] constants | const, static
-        enums
-        enum function
-        options -- https://www.linkedin.com/learning/rust-essential-training/3145782?autoSkip=true&autoplay=true&resume=false   matching Option<T>
+- [ ] #?? - lifetimes
+- [ ] #?? - constants | const, static
+- [ ] #?? - enums
+- [ ] #?? - enum function
+- [ ] #?? - options <!-- https://www.linkedin.com/learning/rust-essential-training/3145782?autoSkip=true&autoplay=true&resume=false   matching Option<T>
         -->
-        
-        if let
-        while let
-        results
-        kind error handling
-        panic!
-        unwrap()
-        expect()
-        new data types collections
+- [ ] #?? - if let
+- [ ] #?? - while let
+- [ ] #?? - results
+- [ ] #?? - kind error handling
+- [ ] #?? - panic!
+- [ ] #?? - unwrap()
+- [ ] #?? - expect()
+- [ ] #?? - new data types collections
                 -vectors 
                 -hashmaps
                 -btree
-        ITERATOR
+- [ ] #?? - ITERATOR
                 Fn .iter
                 FnMut .iter_mut()
                 FnOnce .into_iter()
-        COLLECT
-
-
+- [ ] #?? - COLLECT
 
 ### - Advanced
-        reference types
-        smart pointers
-        box
-        CustomBoxßßhttps://www.tutorialspoint.com/rust/rust_smart_pointers.htm
-        rc
-        arc
-        mutex
-        rwLock
+- [ ] #?? - reference types
+- [ ] #?? - smart pointers
+- [ ] #?? - box
+- [ ] #?? - CustomBox<!-- https://www.tutorialspoint.com/rust/rust_smart_pointers.htm -->
+- [ ] #?? - interior mutability
+  - [ ] #?? - cell
+  - [ ] #?? - refcell
+  - [ ] #?? - mutex
+  - [ ] #?? - rwLock
+- [ ] #?? - rc
+- [ ] #?? - arc
 - [ ] async
         channel (sync, send)
 - [ ] tokio
-        macros
-<!--
-- [ ] 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
--->
+- [ ] #?? - macros
