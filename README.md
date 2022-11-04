@@ -47,7 +47,7 @@
 - [x] #36 - break --> [break keyword](video_code_examples/break_keyword/src/main.rs)
 - [x] #37 - continue --> [continue keyword](video_code_examples/continue_keyword/src/main.rs)
 - [x] #38 - while loop --> [while loop](video_code_examples/while_loop/src/main.rs)
-- [ ] #39 - for loop
+- [x] #39 - for loop --> [for loop](video_code_examples/for_loop/src/main.rs)
 <!--
 - [ ] let ile loop, match değişken oluşturma
 - [ ] for loop Strings string literal
