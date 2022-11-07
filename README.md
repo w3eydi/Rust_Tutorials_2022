@@ -48,13 +48,14 @@
 - [x] #37 - continue --> [continue keyword](video_code_examples/continue_keyword/src/main.rs)
 - [x] #38 - while loop --> [while loop](video_code_examples/while_loop/src/main.rs)
 - [x] #39 - for loop --> [for loop](video_code_examples/for_loop/src/main.rs)
+- [x] #40 - variable bindings --> [variable bindings](video_code_examples/variable_bindings/src/main.rs)
+- [ ] #40 - functions
+- [ ] #41 - returning functions
+- [ ] #41 - functions shadowing
 <!--
 - [ ] let ile loop, match değişken oluşturma
 - [ ] for loop Strings string literal
 // https://www.educative.io/answers/what-is-stringchars-in-rust -->
-- [ ] #40 - functions
-- [ ] #41 - functions shadowing
-
 - [ ] reference
 - [ ] dereference 
 ### - Intermediate
@@ -69,7 +70,6 @@ https://www.tutorialspoint.com/rust/rust_file_input_output.htm
 - [ ] #43 - closures
 - [ ] #44 - libraries
 - [ ] #45 - input
-
 - [ ] #50 - struct 
 - [ ] # ?? - struct update :: 10.2 linked
 - [ ] #?? - struct - pub ::hadi yeni bir yöntemle struct tanımlayalım
@@ -90,9 +90,7 @@ https://www.tutorialspoint.com/rust/rust_file_input_output.htm
 - [ ] #?? - trait - &dyn ?? dynamic dispact
      <!--aynı video olabilir -   trait - dyn shortway
             aynı -  trait - dyn impl keyword shortway -->
-        
 - [ ] #?? - MODULES
-        
 - [ ] #?? - lifetimes
 - [ ] #?? - constants | const, static
 - [ ] #?? - enums
