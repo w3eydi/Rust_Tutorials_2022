@@ -49,7 +49,7 @@
 - [x] #38 - while loop --> [while loop](video_code_examples/while_loop/src/main.rs)
 - [x] #39 - for loop --> [for loop](video_code_examples/for_loop/src/main.rs)
 - [x] #40 - variable bindings --> [variable bindings](video_code_examples/variable_bindings/src/main.rs)
-- [ ] #40 - functions
+- [x] #40 - functions --> [functions](video_code_examples/functions/src/main.rs)
 - [ ] #41 - returning functions
 - [ ] #41 - functions shadowing
 <!--
