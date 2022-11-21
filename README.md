@@ -44,43 +44,47 @@
 - [x] #33 - control flow | if/else -> [if/else](video_code_examples/if_else/src/main.rs)
 - [x] #34 - control flow | match -> [match](video_code_examples/match_example/src/main.rs)
 - [x] #35 - infinite loop -> [infinite loop](video_code_examples/infinite_loop/src/main.rs)
-- [x] #36 - break --> [break keyword](video_code_examples/break_keyword/src/main.rs)
-- [x] #37 - continue --> [continue keyword](video_code_examples/continue_keyword/src/main.rs)
-- [x] #38 - while loop --> [while loop](video_code_examples/while_loop/src/main.rs)
-- [x] #39 - for loop --> [for loop](video_code_examples/for_loop/src/main.rs)
-- [x] #40 - variable bindings --> [variable bindings](video_code_examples/variable_bindings/src/main.rs)
-- [x] #40 - functions --> [functions](video_code_examples/functions/src/main.rs)
-- [ ] #41 - returning functions
-- [ ] #41 - functions shadowing
+- [x] #36 - break -> [break keyword](video_code_examples/break_keyword/src/main.rs)
+- [x] #37 - continue -> [continue keyword](video_code_examples/continue_keyword/src/main.rs)
+- [x] #38 - while loop -> [while loop](video_code_examples/while_loop/src/main.rs)
+- [x] #39 - for loop -> [for loop](video_code_examples/for_loop/src/main.rs)
+- [x] #40 - variable bindings -> [variable bindings](video_code_examples/variable_bindings/src/main.rs)
+- [x] #41 - functions -> [functions](video_code_examples/functions/src/main.rs)
+- [x] #42 - returning functions -> [returning functions](video_code_examples/returning_functions/src/main.rs)
+- [ ] #43 - functions shadowing
+
+### - Intermediate
+
+- [ ] #44 - stack and heap
+- [ ] #45 - ownership
+- [ ] #46 - reference
+- [ ] #?? - borrowing
+- [ ] #?? - dereference 
+- [ ] #?? - mutable reference
 <!--
-- [ ] let ile loop, match değişken oluşturma
 - [ ] for loop Strings string literal
 // https://www.educative.io/answers/what-is-stringchars-in-rust -->
-- [ ] reference
-- [ ] dereference 
-### - Intermediate
-<!-- linked learn 6.7-->
-- [ ] #42 - basic references ?? - with functions borrowing
-<!-- // belki 42 ye aktarılır ownership başlanabilir -->
-- [ ] ownership
 <!--
 https://www.tutorialspoint.com/rust/rust_file_input_output.htm
 -->     
-- [ ] borrowing
-- [ ] #43 - closures
-- [ ] #44 - libraries
-- [ ] #45 - input
+- [ ] #?? - closures
+- [ ] #?? - libraries
+- [ ] #?? - input
 - [ ] #50 - struct 
 - [ ] # ?? - struct update :: 10.2 linked
 - [ ] #?? - struct - pub ::hadi yeni bir yöntemle struct tanımlayalım
 - [ ] #?? - methods impl - 10.4 associated function new Self keywordle de tanımla      
 - [ ] #?? impl - yazdir() get_name()
 - [ ] #?? - tuple structs
+- [ ] #?? - enums
+- [ ] #?? - enum function
+- [ ] #?? - MODULES
 - [ ] #?? - generic 
 - [ ] #?? - generic type safe vektör örneği
         <!-- https://www.tutorialspoint.com/rust/rust_generic_types.htm -->
 - [ ] #?? - generic method <T, U> ve <u8, u8>
 - [ ] #?? - generic partialOrd
+- [ ] #?? - lifetimes
 - [ ] #?? - trait implementasyonu
 - [ ] #?? - trait - Debug formatting & Display Traits
 - [ ] #?? - trait - Default value
@@ -90,15 +94,12 @@ https://www.tutorialspoint.com/rust/rust_file_input_output.htm
 - [ ] #?? - trait - &dyn ?? dynamic dispact
      <!--aynı video olabilir -   trait - dyn shortway
             aynı -  trait - dyn impl keyword shortway -->
-- [ ] #?? - MODULES
-- [ ] #?? - lifetimes
 - [ ] #?? - constants | const, static
-- [ ] #?? - enums
-- [ ] #?? - enum function
 - [ ] #?? - options <!-- https://www.linkedin.com/learning/rust-essential-training/3145782?autoSkip=true&autoplay=true&resume=false   matching Option<T>
         -->
 - [ ] #?? - if let
 - [ ] #?? - while let
+- [ ] #?? - else let
 - [ ] #?? - results
 - [ ] #?? - kind error handling
 - [ ] #?? - panic!
