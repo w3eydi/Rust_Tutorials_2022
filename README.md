@@ -51,7 +51,7 @@
 - [x] #40 - variable bindings -> [variable bindings](video_code_examples/variable_bindings/src/main.rs)
 - [x] #41 - functions -> [functions](video_code_examples/functions/src/main.rs)
 - [x] #42 - returning functions -> [returning functions](video_code_examples/returning_functions/src/main.rs)
-- [ ] #43 - functions shadowing
+- [x] #43 - function shadowing -> [function shadowing](video_code_examples/function_shadowing/src/main.rs)
 
 ### - Intermediate
 
