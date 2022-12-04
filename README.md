@@ -55,8 +55,8 @@
 
 ### - Intermediate
 
-- [ ] #44 - stack and heap
-- [ ] #45 - ownership
+- [x] #44 - stack and heap
+- [x] #45 - ownership -> [ownership](video_code_examples/ownership/src/main.rs)
 - [ ] #46 - reference
 - [ ] #?? - borrowing
 - [ ] #?? - dereference 
