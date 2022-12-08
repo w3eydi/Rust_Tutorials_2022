@@ -57,20 +57,14 @@
 
 - [x] #44 - stack and heap
 - [x] #45 - ownership -> [ownership](video_code_examples/ownership/src/main.rs)
-- [ ] #46 - reference
-- [ ] #?? - borrowing
-- [ ] #?? - dereference 
-- [ ] #?? - mutable reference
+- [x] #46 - [references and borrowing](video_code_examples/references_and_borrowing/src/main.rs)
+- [ ] #47 - mutable reference
+- [ ] #48 - dereferencing
+- [ ] #49 - struct
 <!--
 - [ ] for loop Strings string literal
-// https://www.educative.io/answers/what-is-stringchars-in-rust -->
-<!--
-https://www.tutorialspoint.com/rust/rust_file_input_output.htm
--->     
-- [ ] #?? - closures
-- [ ] #?? - libraries
-- [ ] #?? - input
-- [ ] #50 - struct 
+// https://www.educative.io/answers/what-is-stringchars-in-rust -->  
+
 - [ ] # ?? - struct update :: 10.2 linked
 - [ ] #?? - struct - pub ::hadi yeni bir yöntemle struct tanımlayalım
 - [ ] #?? - methods impl - 10.4 associated function new Self keywordle de tanımla      
@@ -78,13 +72,21 @@ https://www.tutorialspoint.com/rust/rust_file_input_output.htm
 - [ ] #?? - tuple structs
 - [ ] #?? - enums
 - [ ] #?? - enum function
+- [ ] #?? - closures
 - [ ] #?? - MODULES
+- [ ] #?? - libraries
+- [ ] #?? - input
+<!--
+https://www.tutorialspoint.com/rust/rust_file_input_output.htm
+-->   
 - [ ] #?? - generic 
 - [ ] #?? - generic type safe vektör örneği
         <!-- https://www.tutorialspoint.com/rust/rust_generic_types.htm -->
 - [ ] #?? - generic method <T, U> ve <u8, u8>
 - [ ] #?? - generic partialOrd
 - [ ] #?? - lifetimes
+- [ ] #?? - constants | const, static
+- [ ] #?? - unsafe {}
 - [ ] #?? - trait implementasyonu
 - [ ] #?? - trait - Debug formatting & Display Traits
 - [ ] #?? - trait - Default value
@@ -94,7 +96,6 @@ https://www.tutorialspoint.com/rust/rust_file_input_output.htm
 - [ ] #?? - trait - &dyn ?? dynamic dispact
      <!--aynı video olabilir -   trait - dyn shortway
             aynı -  trait - dyn impl keyword shortway -->
-- [ ] #?? - constants | const, static
 - [ ] #?? - options <!-- https://www.linkedin.com/learning/rust-essential-training/3145782?autoSkip=true&autoplay=true&resume=false   matching Option<T>
         -->
 - [ ] #?? - if let
@@ -102,6 +103,7 @@ https://www.tutorialspoint.com/rust/rust_file_input_output.htm
 - [ ] #?? - else let
 - [ ] #?? - results
 - [ ] #?? - kind error handling
+- [ ] #?? - ? operator
 - [ ] #?? - panic!
 - [ ] #?? - unwrap()
 - [ ] #?? - expect()
@@ -125,9 +127,12 @@ https://www.tutorialspoint.com/rust/rust_file_input_output.htm
   - [ ] #?? - refcell
   - [ ] #?? - mutex
   - [ ] #?? - rwLock
+- [ ] #?? - threads
 - [ ] #?? - rc
 - [ ] #?? - arc
 - [ ] async
         channel (sync, send)
+- [ ] await keyword
 - [ ] tokio
+- [ ] #?? - test
 - [ ] #?? - macros
