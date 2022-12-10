@@ -57,8 +57,8 @@
 
 - [x] #44 - stack and heap
 - [x] #45 - ownership -> [ownership](video_code_examples/ownership/src/main.rs)
-- [x] #46 - [references and borrowing](video_code_examples/references_and_borrowing/src/main.rs)
-- [ ] #47 - mutable reference
+- [x] #46 - references and borrowing -> [references and borrowing](video_code_examples/references_and_borrowing/src/main.rs)
+- [x] #47 - mutable referencing -> [mutable_referencing](video_code_examples/mutable_referencing/src/main.rs)
 - [ ] #48 - dereferencing
 - [ ] #49 - struct
 <!--
