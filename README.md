@@ -60,16 +60,11 @@
 - [x] #46 - references and borrowing -> [references and borrowing](video_code_examples/references_and_borrowing/src/main.rs)
 - [x] #47 - mutable referencing -> [mutable_referencing](video_code_examples/mutable_referencing/src/main.rs)
 - [x] #48 - dereferencing -> [dereferencing](video_code_examples/dereferencing/src/main.rs)
-- [ ] #49 - struct
-<!--
-- [ ] for loop Strings string literal
-// https://www.educative.io/answers/what-is-stringchars-in-rust -->  
-
-- [ ] # ?? - struct update :: 10.2 linked
-- [ ] #?? - struct - pub ::hadi yeni bir yöntemle struct tanımlayalım
-- [ ] #?? - methods impl - 10.4 associated function new Self keywordle de tanımla      
-- [ ] #?? impl - yazdir() get_name()
-- [ ] #?? - tuple structs
+- [x] #49 - structs -> [structs](video_code_examples/structs/src/main.rs)
+- [ ] #50 - struct update syntax
+- [ ] #51 - struct functions  //get_name()
+- [ ] #52 - struct associated functions //new Self keywordle de tanımla      
+- [ ] #53 - tuple structs
 - [ ] #?? - enums
 - [ ] #?? - enum function
 - [ ] #?? - closures
@@ -103,9 +98,9 @@ https://www.tutorialspoint.com/rust/rust_file_input_output.htm
 - [ ] #?? - else let
 - [ ] #?? - results
 - [ ] #?? - kind error handling
+- [ ] #?? - unwrap()
 - [ ] #?? - ? operator
 - [ ] #?? - panic!
-- [ ] #?? - unwrap()
 - [ ] #?? - expect()
 - [ ] #?? - new data types collections
                 -vectors 
@@ -136,3 +131,8 @@ https://www.tutorialspoint.com/rust/rust_file_input_output.htm
 - [ ] tokio
 - [ ] #?? - test
 - [ ] #?? - macros
+
+
+<!--
+- [ ] for loop Strings string literal
+// https://www.educative.io/answers/what-is-stringchars-in-rust -->  
