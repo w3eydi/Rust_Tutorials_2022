@@ -61,51 +61,52 @@
 - [x] #47 - mutable referencing -> [mutable_referencing](video_code_examples/mutable_referencing/src/main.rs)
 - [x] #48 - dereferencing -> [dereferencing](video_code_examples/dereferencing/src/main.rs)
 - [x] #49 - structs -> [structs](video_code_examples/structs/src/main.rs)
-- [ ] #50 - struct update syntax
-- [ ] #51 - struct functions  //get_name()
+- [x] #50 - struct update syntax -> [struct_update_syntax](video_code_examples/struct_update_syntax/src/main.rs)
+- [ ] #51 - methods //get_name()
 - [ ] #52 - struct associated functions //new Self keywordle de tanımla      
 - [ ] #53 - tuple structs
 - [ ] #?? - enums
 - [ ] #?? - enum function
-- [ ] #?? - closures
 - [ ] #?? - MODULES
 - [ ] #?? - libraries
 - [ ] #?? - input
-<!--
-https://www.tutorialspoint.com/rust/rust_file_input_output.htm
--->   
+- [ ] #?? - trait implementasyonu
+- [ ] #?? - trait - Debug Trait
+- [ ] #?? - trait - Display Trait
+- [ ] #?? - trait - Default value
+- [ ] #?? - trait - partialEq
+- [ ] #?? - trait - partialOrd
+- [ ] #?? - trait derivable
 - [ ] #?? - generic 
 - [ ] #?? - generic type safe vektör örneği
         <!-- https://www.tutorialspoint.com/rust/rust_generic_types.htm -->
 - [ ] #?? - generic method <T, U> ve <u8, u8>
 - [ ] #?? - generic partialOrd
-- [ ] #?? - lifetimes
-- [ ] #?? - constants | const, static
-- [ ] #?? - unsafe {}
-- [ ] #?? - trait implementasyonu
-- [ ] #?? - trait - Debug formatting & Display Traits
-- [ ] #?? - trait - Default value
-- [ ] #?? - trait - partialEq
-- [ ] #?? - trait derivable
-- [ ] #?? - trait - static
 - [ ] #?? - trait - &dyn ?? dynamic dispact
-     <!--aynı video olabilir -   trait - dyn shortway
+- [ ] #?? - trait - static dispact
+<!--aynı video olabilir -   trait - dyn shortway
             aynı -  trait - dyn impl keyword shortway -->
+- [ ] #?? - lifetimes
+- [ ] #?? - unsafe {}
+- [ ] #?? - const
+- [ ] #?? - static
 - [ ] #?? - options <!-- https://www.linkedin.com/learning/rust-essential-training/3145782?autoSkip=true&autoplay=true&resume=false   matching Option<T>
         -->
-- [ ] #?? - if let
-- [ ] #?? - while let
-- [ ] #?? - else let
+
 - [ ] #?? - results
 - [ ] #?? - kind error handling
 - [ ] #?? - unwrap()
 - [ ] #?? - ? operator
+- [ ] #?? - if let
+- [ ] #?? - while let
+- [ ] #?? - else let
 - [ ] #?? - panic!
 - [ ] #?? - expect()
 - [ ] #?? - new data types collections
                 -vectors 
                 -hashmaps
                 -btree
+- [ ] #?? - closures
 - [ ] #?? - ITERATOR
                 Fn .iter
                 FnMut .iter_mut()
@@ -113,7 +114,10 @@ https://www.tutorialspoint.com/rust/rust_file_input_output.htm
 - [ ] #?? - COLLECT
 
 ### - Advanced
-- [ ] #?? - reference types
+- [ ] #?? - files 
+<!--
+https://www.tutorialspoint.com/rust/rust_file_input_output.htm
+-->
 - [ ] #?? - smart pointers
 - [ ] #?? - box
 - [ ] #?? - CustomBox<!-- https://www.tutorialspoint.com/rust/rust_smart_pointers.htm -->
@@ -122,11 +126,10 @@ https://www.tutorialspoint.com/rust/rust_file_input_output.htm
   - [ ] #?? - refcell
   - [ ] #?? - mutex
   - [ ] #?? - rwLock
-- [ ] #?? - threads
 - [ ] #?? - rc
+- [ ] #?? - threads
 - [ ] #?? - arc
-- [ ] async
-        channel (sync, send)
+- [ ] async xchannel (sync, send)
 - [ ] await keyword
 - [ ] tokio
 - [ ] #?? - test
