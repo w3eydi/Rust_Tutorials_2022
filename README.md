@@ -62,11 +62,11 @@
 - [x] #48 - dereferencing -> [dereferencing](video_code_examples/dereferencing/src/main.rs)
 - [x] #49 - structs -> [structs](video_code_examples/structs/src/main.rs)
 - [x] #50 - struct update syntax -> [struct_update_syntax](video_code_examples/struct_update_syntax/src/main.rs)
-- [ ] #51 - methods //get_name()
-- [ ] #52 - struct associated functions //new Self keywordle de tanımla      
+- [ ] #51 - methods
+- [ ] #52 - associated functions    
 - [ ] #53 - tuple structs
-- [ ] #?? - enums
-- [ ] #?? - enum function
+- [ ] #54 - enums
+- [ ] #55 - enum methods
 - [ ] #?? - MODULES
 - [ ] #?? - libraries
 - [ ] #?? - input
@@ -79,13 +79,13 @@
 - [ ] #?? - trait derivable
 - [ ] #?? - generic 
 - [ ] #?? - generic type safe vektör örneği
-        <!-- https://www.tutorialspoint.com/rust/rust_generic_types.htm -->
+<!-- https://www.tutorialspoint.com/rust/rust_generic_types.htm -->
 - [ ] #?? - generic method <T, U> ve <u8, u8>
 - [ ] #?? - generic partialOrd
 - [ ] #?? - trait - &dyn ?? dynamic dispact
 - [ ] #?? - trait - static dispact
 <!--aynı video olabilir -   trait - dyn shortway
-            aynı -  trait - dyn impl keyword shortway -->
+aynı -  trait - dyn impl keyword shortway -->
 - [ ] #?? - lifetimes
 - [ ] #?? - unsafe {}
 - [ ] #?? - const
@@ -94,14 +94,14 @@
         -->
 
 - [ ] #?? - results
+- [ ] #?? - panic!
 - [ ] #?? - kind error handling
 - [ ] #?? - unwrap()
 - [ ] #?? - ? operator
+- [ ] #?? - expect()
 - [ ] #?? - if let
 - [ ] #?? - while let
 - [ ] #?? - else let
-- [ ] #?? - panic!
-- [ ] #?? - expect()
 - [ ] #?? - new data types collections
                 -vectors 
                 -hashmaps
@@ -111,7 +111,7 @@
                 Fn .iter
                 FnMut .iter_mut()
                 FnOnce .into_iter()
-- [ ] #?? - COLLECT
+- [ ] #?? - COLLECT map filter
 
 ### - Advanced
 - [ ] #?? - files 
@@ -129,7 +129,8 @@ https://www.tutorialspoint.com/rust/rust_file_input_output.htm
 - [ ] #?? - rc
 - [ ] #?? - threads
 - [ ] #?? - arc
-- [ ] async xchannel (sync, send)
+- [ ] #?? - impl trait functions ?
+- [ ] async channel (sync, send)
 - [ ] await keyword
 - [ ] tokio
 - [ ] #?? - test
