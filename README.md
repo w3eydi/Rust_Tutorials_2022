@@ -62,11 +62,12 @@
 - [x] #48 - dereferencing -> [dereferencing](video_code_examples/dereferencing/src/main.rs)
 - [x] #49 - structs -> [structs](video_code_examples/structs/src/main.rs)
 - [x] #50 - struct update syntax -> [struct_update_syntax](video_code_examples/struct_update_syntax/src/main.rs)
-- [ ] #51 - methods
+- [x] #51 - methods -> [methods](video_code_examples/methods/src/main.rs)
 - [ ] #52 - associated functions    
 - [ ] #53 - tuple structs
-- [ ] #54 - enums
-- [ ] #55 - enum methods
+- [ ] #54 - unit structs
+- [ ] #55 - enums
+- [ ] #56 - enum methods
 - [ ] #?? - MODULES
 - [ ] #?? - libraries
 - [ ] #?? - input
