@@ -63,14 +63,10 @@
 - [x] #49 - structs -> [structs](video_code_examples/structs/src/main.rs)
 - [x] #50 - struct update syntax -> [struct_update_syntax](video_code_examples/struct_update_syntax/src/main.rs)
 - [x] #51 - methods -> [methods](video_code_examples/methods/src/main.rs)
-- [ ] #52 - associated functions    
-- [ ] #53 - tuple structs
-- [ ] #54 - unit structs
-- [ ] #55 - enums
-- [ ] #56 - enum methods
-- [ ] #?? - MODULES
-- [ ] #?? - libraries
-- [ ] #?? - input
+- [x] #52 - associated functions -> [methods](video_code_examples/associated_functions/src/main.rs)
+- [x] #53 - tuple structs -> [tuple_structs](video_code_examples/tuple_structs/src/main.rs)
+- [x] #54 - enums -> [enums](video_code_examples/enums/src/main.rs)
+- [ ] #55 - enum methods
 - [ ] #?? - trait implementasyonu
 - [ ] #?? - trait - Debug Trait
 - [ ] #?? - trait - Display Trait
@@ -88,9 +84,12 @@
 <!--aynı video olabilir -   trait - dyn shortway
 aynı -  trait - dyn impl keyword shortway -->
 - [ ] #?? - lifetimes
-- [ ] #?? - unsafe {}
+- [ ] #?? - MODULES
+- [ ] #?? - libraries
+- [ ] #?? - input
 - [ ] #?? - const
 - [ ] #?? - static
+- [ ] #?? - unsafe {} <!-- statikten sonra göster mutable olarak -->
 - [ ] #?? - options <!-- https://www.linkedin.com/learning/rust-essential-training/3145782?autoSkip=true&autoplay=true&resume=false   matching Option<T>
         -->
 
