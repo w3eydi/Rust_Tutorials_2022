@@ -66,21 +66,21 @@
 - [x] #52 - associated functions -> [methods](video_code_examples/associated_functions/src/main.rs)
 - [x] #53 - tuple structs -> [tuple_structs](video_code_examples/tuple_structs/src/main.rs)
 - [x] #54 - enums -> [enums](video_code_examples/enums/src/main.rs)
-- [ ] #55 - enum methods
-- [ ] #?? - trait implementasyonu
-- [ ] #?? - trait - Debug Trait
+- [x] #55 - enum methods -> [enum_methods](video_code_examples/enum_methods/src/main.rs)
+- [ ] #56 - traits
+- [ ] #57 - Debug Trait
 - [ ] #?? - trait - Display Trait
 - [ ] #?? - trait - Default value
 - [ ] #?? - trait - partialEq
 - [ ] #?? - trait - partialOrd
-- [ ] #?? - trait derivable
+- [ ] #?? - derivable traits
 - [ ] #?? - generic 
 - [ ] #?? - generic type safe vektör örneği
 <!-- https://www.tutorialspoint.com/rust/rust_generic_types.htm -->
 - [ ] #?? - generic method <T, U> ve <u8, u8>
 - [ ] #?? - generic partialOrd
-- [ ] #?? - trait - &dyn ?? dynamic dispact
 - [ ] #?? - trait - static dispact
+- [ ] #?? - trait - &dyn ?? dynamic dispact
 <!--aynı video olabilir -   trait - dyn shortway
 aynı -  trait - dyn impl keyword shortway -->
 - [ ] #?? - lifetimes
