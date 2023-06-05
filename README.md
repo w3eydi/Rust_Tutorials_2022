@@ -67,7 +67,7 @@
 - [x] #53 - tuple structs -> [tuple_structs](video_code_examples/tuple_structs/src/main.rs)
 - [x] #54 - enums -> [enums](video_code_examples/enums/src/main.rs)
 - [x] #55 - enum methods -> [enum_methods](video_code_examples/enum_methods/src/main.rs)
-- [ ] #56 - traits
+- [x] #56 - traits -> [traits](video_code_examples/traits/src/main.rs)
 - [ ] #57 - Debug Trait
 - [ ] #?? - trait - Display Trait
 - [ ] #?? - trait - Default value
