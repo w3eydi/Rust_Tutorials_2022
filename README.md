@@ -68,12 +68,12 @@
 - [x] #54 - enums -> [enums](video_code_examples/enums/src/main.rs)
 - [x] #55 - enum methods -> [enum_methods](video_code_examples/enum_methods/src/main.rs)
 - [x] #56 - traits -> [traits](video_code_examples/traits/src/main.rs)
-- [ ] #57 - Debug Trait
-- [ ] #?? - trait - Display Trait
-- [ ] #?? - trait - Default value
+- [x] #57 - derivable traits -> [derivable_traits](video_code_examples/derivable_traits/src/main.rs)
+- [ ] #58 - Debug trait
+- [ ] #?? - Display trait
+- [ ] #?? - Default value
 - [ ] #?? - trait - partialEq
 - [ ] #?? - trait - partialOrd
-- [ ] #?? - derivable traits
 - [ ] #?? - generic 
 - [ ] #?? - generic type safe vektör örneği
 <!-- https://www.tutorialspoint.com/rust/rust_generic_types.htm -->
