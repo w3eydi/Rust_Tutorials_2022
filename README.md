@@ -69,18 +69,20 @@
 - [x] #55 - enum methods -> [enum_methods](video_code_examples/enum_methods/src/main.rs)
 - [x] #56 - traits -> [traits](video_code_examples/traits/src/main.rs)
 - [x] #57 - derivable traits -> [derivable_traits](video_code_examples/derivable_traits/src/main.rs)
-- [ ] #58 - Debug trait
-- [ ] #?? - Display trait
-- [ ] #?? - Default value
-- [ ] #?? - trait - partialEq
-- [ ] #?? - trait - partialOrd
-- [ ] #?? - generic 
+- [x] #58 - Debug trait -> [debug_trait](video_code_examples/debug_trait/src/main.rs)
+- [ ] #59 - Display trait
+- [ ] #?? - Default trait
+- [ ] #?? - Deref trait
+- [ ] #?? - DerefMut trait
+- [ ] #?? - PartialEq trait
+- [ ] #?? - PartialOrd trait
+- [ ] #?? - generic
 - [ ] #?? - generic type safe vektör örneği
 <!-- https://www.tutorialspoint.com/rust/rust_generic_types.htm -->
 - [ ] #?? - generic method <T, U> ve <u8, u8>
 - [ ] #?? - generic partialOrd
-- [ ] #?? - trait - static dispact
 - [ ] #?? - trait - &dyn ?? dynamic dispact
+- [ ] #?? - trait - static dispact
 <!--aynı video olabilir -   trait - dyn shortway
 aynı -  trait - dyn impl keyword shortway -->
 - [ ] #?? - lifetimes
