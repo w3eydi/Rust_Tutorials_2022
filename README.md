@@ -70,10 +70,10 @@
 - [x] #56 - traits -> [traits](video_code_examples/traits/src/main.rs)
 - [x] #57 - derivable traits -> [derivable_traits](video_code_examples/derivable_traits/src/main.rs)
 - [x] #58 - Debug trait -> [debug_trait](video_code_examples/debug_trait/src/main.rs)
-- [ ] #59 - Display trait
-- [ ] #?? - Default trait
-- [ ] #?? - Deref trait
-- [ ] #?? - DerefMut trait
+- [x] #59 - Default trait -> [default_trait](video_code_examples/default_trait/src/main.rs)
+- [ ] #60 - Display trait
+- [ ] #61 - Deref trait
+- [ ] #62 - DerefMut trait
 - [ ] #?? - PartialEq trait
 - [ ] #?? - PartialOrd trait
 - [ ] #?? - generic
