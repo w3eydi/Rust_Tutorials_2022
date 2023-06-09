@@ -71,7 +71,7 @@
 - [x] #57 - derivable traits -> [derivable_traits](video_code_examples/derivable_traits/src/main.rs)
 - [x] #58 - Debug trait -> [debug_trait](video_code_examples/debug_trait/src/main.rs)
 - [x] #59 - Default trait -> [default_trait](video_code_examples/default_trait/src/main.rs)
-- [ ] #60 - Display trait
+- [x] #60 - Display trait -> [display_trait](video_code_examples/display_trait/src/main.rs)
 - [ ] #61 - Deref trait
 - [ ] #62 - DerefMut trait
 - [ ] #?? - PartialEq trait
