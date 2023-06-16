@@ -72,7 +72,7 @@
 - [x] #58 - Debug trait -> [debug_trait](video_code_examples/debug_trait/src/main.rs)
 - [x] #59 - Default trait -> [default_trait](video_code_examples/default_trait/src/main.rs)
 - [x] #60 - Display trait -> [display_trait](video_code_examples/display_trait/src/main.rs)
-- [ ] #61 - Deref trait
+- [x] #61 - Deref trait -> [deref_trait](video_code_examples/deref_trait/src/main.rs)
 - [ ] #62 - DerefMut trait
 - [ ] #?? - PartialEq trait
 - [ ] #?? - PartialOrd trait
