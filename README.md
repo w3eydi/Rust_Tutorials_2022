@@ -73,7 +73,9 @@
 - [x] #59 - Default trait -> [default_trait](video_code_examples/default_trait/src/main.rs)
 - [x] #60 - Display trait -> [display_trait](video_code_examples/display_trait/src/main.rs)
 - [x] #61 - Deref trait -> [deref_trait](video_code_examples/deref_trait/src/main.rs)
-- [ ] #62 - DerefMut trait
+- [x] #62 - DerefMut trait -> [derefmut_trait](video_code_examples/derefmut_trait/src/main.rs)
+- [x] #63 - operator overloading -> [operator_overloading](video_code_examples/operator_overloading/src/main.rs)
+- [ ] #64 - Drop trait
 - [ ] #?? - PartialEq trait
 - [ ] #?? - PartialOrd trait
 - [ ] #?? - generic
@@ -83,6 +85,7 @@
 - [ ] #?? - generic partialOrd
 - [ ] #?? - trait - &dyn ?? dynamic dispact
 - [ ] #?? - trait - static dispact
+- [ ] #?? - impl trait
 <!--aynı video olabilir -   trait - dyn shortway
 aynı -  trait - dyn impl keyword shortway -->
 - [ ] #?? - lifetimes
