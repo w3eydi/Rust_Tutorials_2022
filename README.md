@@ -75,7 +75,7 @@
 - [x] #61 - Deref trait -> [deref_trait](video_code_examples/deref_trait/src/main.rs)
 - [x] #62 - DerefMut trait -> [derefmut_trait](video_code_examples/derefmut_trait/src/main.rs)
 - [x] #63 - operator overloading -> [operator_overloading](video_code_examples/operator_overloading/src/main.rs)
-- [ ] #64 - Drop trait
+- [x] #64 - Drop trait -> [drop_trait](video_code_examples/drop_trait/src/main.rs)
 - [ ] #?? - PartialEq trait
 - [ ] #?? - PartialOrd trait
 - [ ] #?? - generic
