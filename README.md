@@ -76,16 +76,14 @@
 - [x] #62 - DerefMut trait -> [derefmut_trait](video_code_examples/derefmut_trait/src/main.rs)
 - [x] #63 - operator overloading -> [operator_overloading](video_code_examples/operator_overloading/src/main.rs)
 - [x] #64 - Drop trait -> [drop_trait](video_code_examples/drop_trait/src/main.rs)
-- [ ] #?? - PartialEq trait
-- [ ] #?? - PartialOrd trait
-- [ ] #?? - generic
-- [ ] #?? - generic type safe vektör örneği
+- [x] #65 - generics -> [generics](video_code_examples/generics/src/main.rs)
+- [ ] #66 - generic methods <T, U>
+- [ ] #67 - generic concrete types <u8, u8>
+- [ ] #68 - trait - static dispact
+- [ ] #69 - trait - &dyn ?? dynamic dispact
+- [ ] #70 - generic functions -> sum example? --Display trait?-- partialOrd trait?
 <!-- https://www.tutorialspoint.com/rust/rust_generic_types.htm -->
-- [ ] #?? - generic method <T, U> ve <u8, u8>
-- [ ] #?? - generic partialOrd
-- [ ] #?? - trait - &dyn ?? dynamic dispact
-- [ ] #?? - trait - static dispact
-- [ ] #?? - impl trait
+- [ ] #71 - generic functions shorthand
 <!--aynı video olabilir -   trait - dyn shortway
 aynı -  trait - dyn impl keyword shortway -->
 - [ ] #?? - lifetimes
