@@ -77,7 +77,7 @@
 - [x] #63 - operator overloading -> [operator_overloading](video_code_examples/operator_overloading/src/main.rs)
 - [x] #64 - Drop trait -> [drop_trait](video_code_examples/drop_trait/src/main.rs)
 - [x] #65 - generics -> [generics](video_code_examples/generics/src/main.rs)
-- [ ] #66 - generic methods <T, U>
+- [x] #66 - generic methods -> [generic_methods](video_code_examples/generic_methods/src/main.rs)
 - [ ] #67 - generic concrete types <u8, u8>
 - [ ] #68 - trait - static dispact
 - [ ] #69 - trait - &dyn ?? dynamic dispact
