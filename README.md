@@ -78,7 +78,8 @@
 - [x] #64 - Drop trait -> [drop_trait](video_code_examples/drop_trait/src/main.rs)
 - [x] #65 - generics -> [generics](video_code_examples/generics/src/main.rs)
 - [x] #66 - generic methods -> [generic_methods](video_code_examples/generic_methods/src/main.rs)
-- [ ] #67 - generic concrete types <u8, u8>
+- [x] #67 - generic concrete types -> [generic_concrete_types](video_code_examples/generic_concrete_types/src/main.rs)
+- [ ] #?? - turbofish syntax
 - [ ] #68 - trait - static dispact
 - [ ] #69 - trait - &dyn ?? dynamic dispact
 - [ ] #70 - generic functions -> sum example? --Display trait?-- partialOrd trait?
