@@ -79,12 +79,12 @@
 - [x] #65 - generics -> [generics](video_code_examples/generics/src/main.rs)
 - [x] #66 - generic methods -> [generic_methods](video_code_examples/generic_methods/src/main.rs)
 - [x] #67 - generic concrete types -> [generic_concrete_types](video_code_examples/generic_concrete_types/src/main.rs)
-- [ ] #?? - turbofish syntax
-- [ ] #68 - trait - static dispact
-- [ ] #69 - trait - &dyn ?? dynamic dispact
-- [ ] #70 - generic functions -> sum example? --Display trait?-- partialOrd trait?
+- [x] #68 - turbofish syntax -> [turbofish_synrax](video_code_examples/turbofish_syntax/src/main.rs)
+- [ ] #69 - static dispact
+- [ ] #70 - dynamic dispact
+- [ ] #71 - generic functions -> sum example? --Display trait?-- partialOrd trait?
 <!-- https://www.tutorialspoint.com/rust/rust_generic_types.htm -->
-- [ ] #71 - generic functions shorthand
+- [ ] #72 - generic functions shorthand
 <!--aynı video olabilir -   trait - dyn shortway
 aynı -  trait - dyn impl keyword shortway -->
 - [ ] #?? - lifetimes
