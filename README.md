@@ -81,7 +81,7 @@
 - [x] #67 - generic concrete types -> [generic_concrete_types](video_code_examples/generic_concrete_types/src/main.rs)
 - [x] #68 - turbofish syntax -> [turbofish_synrax](video_code_examples/turbofish_syntax/src/main.rs)
 - [x] #69 - static dispatch -> [static_dispatch](video_code_examples/static_dispatch/src/main.rs)
-- [ ] #70 - dynamic dispatch
+- [x] #70 - dynamic dispatch -> [dynamic_dispatch](video_code_examples/dynamic_dispatch/src/main.rs)
 - [ ] #71 - generic functions -> sum example? --Display trait?-- partialOrd trait?
 <!-- https://www.tutorialspoint.com/rust/rust_generic_types.htm -->
 - [ ] #72 - generic functions shorthand
