@@ -82,21 +82,17 @@
 - [x] #68 - turbofish syntax -> [turbofish_synrax](video_code_examples/turbofish_syntax/src/main.rs)
 - [x] #69 - static dispatch -> [static_dispatch](video_code_examples/static_dispatch/src/main.rs)
 - [x] #70 - dynamic dispatch -> [dynamic_dispatch](video_code_examples/dynamic_dispatch/src/main.rs)
-- [ ] #71 - generic functions -> sum example? --Display trait?-- partialOrd trait?
-<!-- https://www.tutorialspoint.com/rust/rust_generic_types.htm -->
+- [x] #71 - generic functions -> [generic_functions](video_code_examples/generic_functions/src/main.rs)
 - [ ] #72 - generic functions shorthand
-<!--aynı video olabilir -   trait - dyn shortway
-aynı -  trait - dyn impl keyword shortway -->
-- [ ] #?? - lifetimes
-- [ ] #?? - MODULES
-- [ ] #?? - libraries
+- [ ] #73 - lifetimes
+- [ ] #74 - MODULES
+- [ ] #75 - libraries
 - [ ] #?? - input
 - [ ] #?? - const
 - [ ] #?? - static
 - [ ] #?? - unsafe {} <!-- statikten sonra göster mutable olarak -->
 - [ ] #?? - options <!-- https://www.linkedin.com/learning/rust-essential-training/3145782?autoSkip=true&autoplay=true&resume=false   matching Option<T>
         -->
-
 - [ ] #?? - results
 - [ ] #?? - panic!
 - [ ] #?? - kind error handling
